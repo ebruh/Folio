@@ -1,11 +1,12 @@
 ## Portfolio
 
-
-it is my first friday Independent project
-
 # By
 
 Ibrahim Makaran
+
+#Description
+
+it is my first friday Independent project
 
 
 ## Built With
