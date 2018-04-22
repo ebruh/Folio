@@ -16,4 +16,4 @@ HTML CSS BOOTSTRAP
 
 **License**
 
-  Copyright (c) 2018
+  Copyright (c) 2018 This project is licensed under the MIT License
