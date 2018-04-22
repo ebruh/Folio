@@ -1,13 +1,11 @@
 body {
-    background-image: url("../img/image2.jpg");
+    background-image: url("../img/hak.JPG");
     background-repeat: no-repeat;
     background-size: 100%; 
     color: white;
-}
-
-.content h1 {
     text-align: center;
 }
+
 
 ul {
     list-style-type: none;
@@ -32,3 +30,18 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+.aboutmebody{
+    background-color: blueviolet;
+
+}
+
+.projectbody{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+img{
+    border-radius: 50%;
+}
+
