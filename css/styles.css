@@ -1,5 +1,5 @@
-body {
-    background-image: url("../img/hak.JPG");
+.ibra {
+    background-image: url("../img/swm.jpg");
     background-repeat: no-repeat;
     background-size: 100%; 
     color: white;
@@ -12,8 +12,7 @@ ul {
     margin-top: 0;
     padding: 50;
     overflow: hidden;
-    background-color: #333;
-}
+ }
 
 li {
     float: left;
@@ -33,15 +32,46 @@ li a:hover {
 
 .aboutmebody{
     background-color: blueviolet;
+    text-align: left;
 
 }
 
 .projectbody{
+    background-image: url("../img/sm.jpeg");
     font-size: 50px;
     font-weight: bolder;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
-img{
-    border-radius: 50%;
+#odi{
+    background-image: url("../img/image2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.test{
+    color: orange;
+    
+}
+
+.aboutmebody a{
+    font-size: 40px;
+    color: white;
+}
+
+.projectbody a{
+    font-size: 80%;
+    color: mintcream;
+}
+
+#odi a{
+    font-size: 50px;
+    color: white;
+}
+
+a:hover{
+    background-color: #111;
+
 }
 
