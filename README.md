@@ -1,5 +1,6 @@
 ## Portfolio
 
+<<<<<<< HEAD
 This is My first Independent Project
 
 # By
@@ -19,3 +20,5 @@ https://github.com/ebruh/Folio.git
 
 MIT Copyright (c) 2018
 
+=======
+>>>>>>> 5be55e37a5fb0d30d4ef23667022212cd6c23f64
