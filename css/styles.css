@@ -3,6 +3,7 @@ body{
 }
 .ibra {
     background-image: url("../img/header.jpg");
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -10,6 +11,10 @@ body{
     background-position: center;
 }
 
+.caption1{
+    background-image: url('../img/jj.jpg');
+    color: white;
+}
 
 /* ul {
     list-style-type: none;
