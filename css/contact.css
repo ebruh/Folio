@@ -67,6 +67,10 @@
 	margin-bottom: 5px;
 }
 
+.footer-distributed .footer-icons a:hover{
+	color: cornflowerblue;
+}
+
 /* Footer Right */
 
 .footer-distributed .footer-right{
@@ -192,4 +196,9 @@
 
 #odi{
 	background-color: #292c2f;
+}
+
+.container-fluid a{
+	font-size: 23px;
+
 }
