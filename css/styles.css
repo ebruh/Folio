@@ -10,6 +10,10 @@ body{
     text-align: center;
     background-position: center;
 }
+em{
+    font-family: 'Kosugi Maru', sans-serif;
+font-family: 'Anton', sans-serif;
+}
 
 /* . caption1{
     color: white;
@@ -86,11 +90,11 @@ a:hover{
     min-height: 100vh;
 }
 .img-circle{
-    display: flex;
-    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 20%;
-    height:40%;
-    margin: 0 auto;
+    border-radius: 50%;
 }
 .projectbody {
     background-color:#d5d5d5;
